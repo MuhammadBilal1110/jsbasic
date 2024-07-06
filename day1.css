@@ -1,0 +1,10 @@
+.abc{
+    list-style-type: none;
+    display: block;
+    justify-content: first baseline;
+    margin: 10px;
+    color: #f2f2f2;
+    padding: 14px 16px;
+    font-size: 17px;
+    border: 0cqb;
+}
